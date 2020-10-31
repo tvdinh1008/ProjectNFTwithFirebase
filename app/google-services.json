@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937220416742",
+    "firebase_url": "https://project-nft.firebaseio.com",
+    "project_id": "project-nft",
+    "storage_bucket": "project-nft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937220416742:android:b61390fe485ead4cfec727",
+        "android_client_info": {
+          "package_name": "com.tvdinh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937220416742-15rgbhkbnuoau5e7ik9sckkhcsun047t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVSmBczcqdiC5dI-MF-fkiSNwDLxb0uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937220416742-15rgbhkbnuoau5e7ik9sckkhcsun047t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
