@@ -64,14 +64,14 @@
             android:text="Sign in with Google"
             android:layout_marginTop="10dp"
             android:id="@+id/btn_login_google"/>
-        <Button
-            android:layout_width="match_parent"
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="#2471A3"
-            android:textColor="@color/white"
-            android:text="Continue with Facebook"
-            android:layout_marginTop="10dp"
-            android:id="@+id/btn_login_facebook"/>
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp" />
         <TextView
             android:id="@+id/forgot_password"
             android:layout_width="wrap_content"
